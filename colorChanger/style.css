@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' sans-serif;
+}
+.head{
+    text-align: center;
+    margin-top: 60px;
+    justify-content: space-between;
+}
+.head h1{
+    margin-bottom: 50px;
+}
+.button{
+    padding: 30px;
+    border: 1.5px solid black;
+    margin: 3px;
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color:white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
+.head h2{
+    margin-top: 50px;
+}
