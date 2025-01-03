@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins' sans-serif;
+    
+}
+body{
+    background-color: grey;
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.container h1{
+    margin-bottom: 20px;
+}
+.container button{
+    margin-top: 20px;
+    text-align: left;
+}
